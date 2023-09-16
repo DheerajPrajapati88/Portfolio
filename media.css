@@ -1,0 +1,95 @@
+@media(max-width:425px){
+
+    .nav a,h4{
+        font-size: 3vw;
+
+    }
+    .main{
+        overflow: hidden;
+    }
+    .heading{
+        margin-top: 35vw;
+    }
+
+    .heading #second{
+
+        margin-left:15vw;
+    }
+    .heading h1{
+        font-size: 15vw;
+    }
+    .blocktext h5{
+
+        font-size: 2vw;
+    }
+    .smallheading h5{
+        font-size: 1.6vw;
+    }
+    .herofooter a{
+        font-size: 2vw;
+    }
+    .second{
+
+        height: 50vh;
+        padding-top: 20vw;
+    }
+    .elm{
+        padding: 8vw 0;
+    }
+    .elm h1{
+
+        padding-left: 2vw;
+    }
+    .elm h5{
+        font-size: 2vw;
+    }
+    .elm img{
+        width: 30vw;
+        height: 35vw;
+    }
+    .about{
+        min-height: 40vh;
+        padding-left: 10vw;
+
+    }
+    .aboutimg{
+        width: 150px;
+        height: 150px;
+    }
+    .about .textabout{
+        width: 40%;
+        right: 0;
+        padding-right: 1vw;
+    }
+    .about .textabout h5{
+        font-size: 3vw;
+        margin-bottom: 1vw;
+    }
+    .about .textabout p{
+        font-size: 2vw;
+        line-height: 3vw;
+    }
+    .about .textabout a{
+        font-size: 2vw;
+    }
+    .subscribe{
+        padding: 10vw 2vw;
+    }
+    .subscribe h3{
+        font-size: 3vw;
+    }
+    .footer{
+        padding-bottom: 10px;
+        flex-direction: column-reverse;
+    }
+    .footerright{
+        margin-bottom: 2vw;
+    }
+    .footer a{
+        font-size: 2.5vw;
+    }
+    .footer h5{
+        font-size: 2vw;
+    }
+
+}
