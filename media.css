@@ -7,6 +7,9 @@
     .main{
         overflow: hidden;
     }
+    .hero{
+        height: 90vh;
+    }
     .heading{
         margin-top: 35vw;
     }
